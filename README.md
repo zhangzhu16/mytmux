@@ -1,0 +1,3 @@
+# mytmux
+
+sh a.sh
